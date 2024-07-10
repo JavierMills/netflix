@@ -1,0 +1,44 @@
+{
+    "tipoCambio":[
+        
+    {
+        "id": 6,
+        "moneda": "MXP",
+        "valor": 19.00,
+        "accion": ""
+      },
+
+      {
+        "id": 1,
+        "moneda": "EUR",
+        "valor": 20.00,
+        "accion": ""
+      },
+      {
+        "id": 2,
+        "moneda": "USD",
+        "valor": 18.00,
+        "accion": ""
+      },
+      {
+        "id": 3,
+        "moneda": "MXP",
+        "valor": 20.20,
+        "accion": ""
+      },
+      {
+        "id": 4,
+        "moneda": "USD",
+        "valor": 19.00,
+        "accion": ""
+      },
+      {
+        "id": 5,
+        "moneda": "MXP",
+        "valor": 20.70,
+        "accion": ""
+      }
+     
+]
+    
+}
